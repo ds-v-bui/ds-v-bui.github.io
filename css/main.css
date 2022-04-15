@@ -976,3 +976,7 @@ button {
     color: #fff;
     border-bottom: 1px solid #eee;
 }
+
+#footer .about {
+    margin-bottom: 1em;
+}
