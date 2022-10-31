@@ -87,7 +87,7 @@
 	if ($('.text-slider').length == 1) {
 		var typed_strings = $('.text-slider-items').text();
 		if ($(window).width() < 600) {
-			typed_strings = typed_strings.replace("Dimage Share Vietnam", "Dimage Share Vietnam")
+			typed_strings = typed_strings.replace("Software Developer", "Software Developer")
 		}
 
 		var typed = new Typed('.text-slider', {
